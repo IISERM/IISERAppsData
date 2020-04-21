@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1mLLbrRaPIwivBQilTagLIJP_Dei55yuK">
+	<name>IISER Mohali</name>
+	<gx:CascadingStyle kml:id="__managed_style_1710B0ED6312D0C0A3D6">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2130&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BC4DDB09212D0C0A3D6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1710B0ED6312D0C0A3D6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0D28CD2DB912D0C0A3D7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0D28CD2DB912D0C0A3D7">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2130&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0F476ED4B912D0BD1367">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_039145D66112D0BD1365">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.18.6/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.66667</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09C7CB3E1B12D0BD1364">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_039145D66112D0BD1365</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0F476ED4B912D0BD1367</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="04214998AE121A266DD3">
+		<name>Dollar Building/Visitors Hoste</name>
+		<description><![CDATA[<div>Though the official name is visitors complex, it's known as dollar building for reasons which would be clear by now. <br>A funny story for this unique name is that some rich PHD students live here.<br></div><div>
+  
+
+<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72831793657519</longitude>
+			<latitude>30.66341817197286</latitude>
+			<altitude>306.882755285493</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1578.602558532148</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72286272334901,30.66327470372694,305.0501361011656</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0152A4A286121A29CE55">
+		<name>Faculty Housing</name>
+		<description><![CDATA[<div>All your excellent/not so excellent (depending on your experience) professors.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72801674856377</longitude>
+			<latitude>30.66361523589674</latitude>
+			<altitude>306.8821956534159</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2144.117440831033</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.7222046993421,30.6651993021648,303.50635158914</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B4550F1A121A2C11E5">
+		<name>Hostel Complex</name>
+		<description><![CDATA[<div>You will be living in one of the four hostels here. And, there is a basketball court(old basketball court) which is often used for playing cricket. Recently, some of your seniors have put up a net to make their own "deshi" volleyball court nearby.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72916892324311</longitude>
+			<latitude>30.66471716983483</latitude>
+			<altitude>307.7851513250089</altitude>
+			<heading>-31.32921300048223</heading>
+			<tilt>0.08611191688582458</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1748.863905483449</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72810618363884,30.66326913441402,307.2259799152858</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DDC9610D8121A2F96D6">
+		<name>An interesting turn on a lonely road.</name>
+		<description><![CDATA[<div>You should go there at least once in a group. There is a light which used to flicker giving this blind turn a haunted tinge. Some of your immediate seniors once tried a prank there at night and almost got beaten up by their friends(No, don't worry! They weren't actually beaten up).<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72948453898707</longitude>
+			<latitude>30.66587073856081</latitude>
+			<altitude>307.3842201411837</altitude>
+			<heading>-31.3290520049716</heading>
+			<tilt>0.08611192028448628</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1749.264785241976</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72846259332658,30.66235164693375,307.1494006730837</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="085E373BE5121A321474">
+		<name>Admin Block</name>
+		<description><![CDATA[<div>All the administrative(boring) work takes place here and you would be visiting this place to get some official work done now and then. And, most of the time it would be lunch time so you will come again.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72937077003201</longitude>
+			<latitude>30.66433222603036</latitude>
+			<altitude>307.8148867802416</altitude>
+			<heading>-31.32944754773706</heading>
+			<tilt>0.08609431677423846</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>446.8174823264417</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72985271569057,30.66504505179642,309.3970157090232</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FBF380765121A3453F5">
+		<name>LHC</name>
+		<description><![CDATA[<div>It doesn't stand for Larger Hadron Collider(though I wish it did). It is the Lecture Hall Complex. You would have all your lectures, tutorials and quizzes(why?????) here.<br></div><div>Inside, there is an eatery(which would be a great relief from the boring mess food).<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72937076998302</longitude>
+			<latitude>30.66433222611488</latitude>
+			<altitude>307.814886778827</altitude>
+			<heading>-31.32944754246164</heading>
+			<tilt>0.08609431685890487</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>446.8174823264418</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72913286200385,30.66404013894428,308.3831437938419</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0136B6714E121A364E16">
+		<name>Another enterance/exit to LHC</name>
+		<description><![CDATA[<div>Gets closed in the evening. Really frustrating sometimes.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72958803022128</longitude>
+			<latitude>30.66437325299849</latitude>
+			<altitude>307.6723104384208</altitude>
+			<heading>-31.32933668576006</heading>
+			<tilt>0.086094318708866</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>446.960070917703</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72995024538099,30.66399654962141,307.8498480521985</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EFD133520121A39315E">
+		<name>Informatics Center</name>
+		<description><![CDATA[<div>This place houses the library, computer center and the server room. The library is really great and perhaps you would spend most of your time there(for AC if not for studying). The computing facility is nice. The server room ...(won't say much. Come and discover the pain it cause sometimes). <br></div>]]></description>
+		<LookAt>
+			<longitude>76.73142332503885</longitude>
+			<latitude>30.66411973927902</latitude>
+			<altitude>306.8663975985488</altitude>
+			<heading>-28.43534103401241</heading>
+			<tilt>4.924309814269773</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>445.5104974985443</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.73043622027386,30.6641610373784,308.0942084649226</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034DB97B6F121A3BF257">
+		<name>Gazebo</name>
+		<description><![CDATA[<div>A nice place for celebrating birthdays. But you must clean before you leave. There is a funny thing about it. You will get to know it only once you have been a part of the community for a significant period of time.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.73171783074021</longitude>
+			<latitude>30.66370793125832</latitude>
+			<altitude>306.8734422222038</altitude>
+			<heading>-28.43519083851353</heading>
+			<tilt>4.924309808733051</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>445.5034051531402</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.73096228426411,30.6637020362347,307.5404212102586</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B246B7D8121A3DF00D">
+		<name>An alternate enterance to the admin block</name>
+		<description><![CDATA[<div>Would be a nice shortcut sometimes.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.73095741083473</longitude>
+			<latitude>30.66455782357555</latitude>
+			<altitude>307.5058194908883</altitude>
+			<heading>-28.43557864402645</heading>
+			<tilt>4.924309318763177</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>444.8686634170735</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.7300839037016,30.66467604101253,308.8083570651781</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="097087574A121A3E84F9">
+		<name>AB1</name>
+		<description><![CDATA[<div>The academic block. Houses all your teaching labs. And some really cool labs of faculty members as well. Also houses a badminton court(pigeons ruin it all the time). You would be visiting this place frequently to discuss doubts/out of the box ideas with your professors. <br></div>]]></description>
+		<LookAt>
+			<longitude>76.73141494930427</longitude>
+			<latitude>30.66367209615272</latitude>
+			<altitude>306.984243348486</altitude>
+			<heading>-28.43534529615586</heading>
+			<tilt>4.924309722920418</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>445.392199031412</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.73102706614544,30.66341799108316,307.0124886104443</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="014BADECE7121A41AB4A">
+		<name>AB2</name>
+		<description><![CDATA[<div>A Chemistry professor once said that AB1 and AB2 are enantiomers. Even the mistakes of AB1 have been copied into AB2.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.73153771576258</longitude>
+			<latitude>30.66361636785783</latitude>
+			<altitude>306.9877162523035</altitude>
+			<heading>-28.43528268648825</heading>
+			<tilt>4.924309720199224</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>445.3887223915081</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.73138498446507,30.66364371892075,307.3693366046618</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="092F6193A2121A42CAB8">
+		<name>Central Animal Facility</name>
+		<description><![CDATA[<div>Nobody knows what happens here. Just joking but I really don't know what happens here.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.73013771840404</longitude>
+			<latitude>30.66297541615957</latitude>
+			<altitude>305.7540831634477</altitude>
+			<heading>-28.43599668900121</heading>
+			<tilt>4.924310676030708</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>446.6269161045057</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.73004829105842,30.66307205289556,306.7340949665651</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA99DCCC9121A43D33D">
+		<name>A lovely place to see</name>
+		<description><![CDATA[<div>But beware of snakes before you go into the grass.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72988789221057</longitude>
+			<latitude>30.66324687306583</latitude>
+			<altitude>307.3093763342808</altitude>
+			<heading>-28.43602644165929</heading>
+			<tilt>4.924255788499324</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>375.518412110323</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72928736018706,30.66318728816282,308.4747427568325</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0527DEB969121A45998F">
+		<name>Central Analytical Facility</name>
+		<description><![CDATA[<div>They have got some really good stuff here. It houses a femtosecond laser, an attosecond laser, NMR facility, Atmospheric Lab, erc(End of Recalling Capacity).<br></div>]]></description>
+		<LookAt>
+			<longitude>76.7295139998062</longitude>
+			<latitude>30.6659197637993</latitude>
+			<altitude>307.4774468060679</altitude>
+			<heading>-28.43631480559125</heading>
+			<tilt>4.924309336759101</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>444.8971718642861</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72945542877096,30.66550845155119,308.1117126611861</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056AB99B67121A4E035E">
+		<name>Health Complex</name>
+		<description><![CDATA[<div>Was once the Library, but that is non functional. Since you're getting admitted into a science institute, most probably you don't believe in ghosts. But ghost stories are fun. So, we like to believe that this library is haunted.(I wish it were)<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72818405541835</longitude>
+			<latitude>30.66619656962529</latitude>
+			<altitude>308.0982579165202</altitude>
+			<heading>-22.20294853191503</heading>
+			<tilt>3.281792558466456</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>298.7043943697427</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72842965166527,30.66610366107255,307.8390692773579</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F01EDE460121A50A493">
+		<name>Ecologist&apos;s zone</name>
+		<description><![CDATA[<div>Ecologists use this place for putting up there mist nets. If you are into birding, you should go the facebook page "Birds of IISER Mohali" or download the Minivet App.<br></div>]]></description>
+		<LookAt>
+			<longitude>76.72448317333246</longitude>
+			<latitude>30.66493973490332</latitude>
+			<altitude>304.030063447925</altitude>
+			<heading>-22.20330493688836</heading>
+			<tilt>3.281757094987616</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>229.8147051398701</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09C7CB3E1B12D0BD1364</styleUrl>
+		<Point>
+			<coordinates>76.72446746582177,30.66498388086651,304.3772822138823</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078FD360EF12D0C07FEF">
+		<name>LHC Eatery</name>
+		<LookAt>
+			<longitude>76.72933387644655</longitude>
+			<latitude>30.66423695083773</latitude>
+			<altitude>307.814543289464</altitude>
+			<heading>-22.20338123450685</heading>
+			<tilt>3.281623339484247</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>103.6836696127648</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BC4DDB09212D0C0A3D6</styleUrl>
+		<Point>
+			<coordinates>76.7291922644534,30.66426940977288,308.4106446769179</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
